@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keithching
 - 🌱 Web development learner
-- HTML, CSS, JavaScript, React, Firebase
+- HTML, CSS, JavaScript, React, Firebase, PostgreSQL, NodeJS
 
 <!---
 keithching/keithching is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
