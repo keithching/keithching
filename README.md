@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @keithching
 - 🌱 Web development learner
+- Tokyo, Japan
 - HTML, CSS, JavaScript, React, Firebase, PostgreSQL, NodeJS
 
 <!---
