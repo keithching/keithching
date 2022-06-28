@@ -2,7 +2,7 @@
 - 🌱 Web development learner
 - 🗼 Tokyo, Japan
 - 🗣️ speaks English, Japanese, Cantonese, Madarin
-- 💻 HTML, CSS, JavaScript, React, Firebase, PostgreSQL, NodeJS
+- 💻 HTML, CSS, JavaScript, React, Firebase, PostgreSQL, NodeJS, Express
 
 <!---
 keithching/keithching is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
