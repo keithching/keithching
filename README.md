@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @keithching
-- 🌱 Web development learner
+- 🌱 aspiring full-stack developer
+- Code Chrysalis 2022
 - 🗼 Tokyo, Japan
 - 🗣️ speaks English, Japanese, Cantonese, Madarin
 - 💻 HTML, CSS, JavaScript, React, Firebase, PostgreSQL, NodeJS, Express
