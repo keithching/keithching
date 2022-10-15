@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @keithching
-- 🌱 aspiring full-stack developer
-- Code Chrysalis 2022
-- 🗼 Tokyo, Japan
+- 🌱 full-stack software engineer
+- 📚 completed advanced software engineering program @Code Chrysalis
+- 🗼 based in Tokyo, Japan
 - 🗣️ speaks English, Japanese, Cantonese, Madarin
-- 💻 HTML, CSS, JavaScript, React, Firebase, PostgreSQL, NodeJS, Express
+- 💻 strong: JavaScript, NodeJS, ReactJS, React Native, ExpressJS, PostgreSQL, Knex, HTML, CSS, Git, GitHub
+- 💻 experienced: TypeScript, Python, Django, Django REST Framework, Flask, MongoDB, Mocha, Chai, Jest, NextJS, Webpack, Heroku, Firebase, Expo
 
 <!---
 keithching/keithching is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
